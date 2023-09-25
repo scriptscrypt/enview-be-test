@@ -65,3 +65,11 @@ raw - json
 Short Demo : https://youtu.be/QGFTIELkQ0o
 
 Detailed Explanation : https://youtu.be/wHO-2FptjBA
+
+
+## Tech Stack
+    
+    1. MongoDB 
+    2. Node - Expressjs 
+    3. Mongoose
+    4. Postman
